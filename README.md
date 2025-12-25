@@ -21,8 +21,8 @@ This Power BI project analyzes operational and event-based data to uncover usage
 
 ## Project Report
 For full analysis and methodology, see the project report:  
-[Download PDF] (file:///C:/Users/pramo/Downloads/Report_%20Retail%20Rocket%20Project%20(1).pdf)
+Download PDF: https://docs.google.com/document/d/153geR49LrE8rnAYEEb-xW_I_TL0yOmBKzVa9k77ksDw/edit?usp=sharing
 
 ## Download Dashboard
 If you want to explore the dashboard interactively, download the Power BI file here:  
-[Download PBIX] [https://onedrive.live.com/your_shared_link_here](https://1drv.ms/u/c/0bc94a9f0c189551/IQDBglI0mzNnRIskM1vkcvB4AZtCPgOPA_vcOBu_MpBgFxQ?e=dBPqmd)
+Download PBIX: https://onedrive.live.com/your_shared_link_here](https://1drv.ms/u/c/0bc94a9f0c189551/IQDBglI0mzNnRIskM1vkcvB4AZtCPgOPA_vcOBu_MpBgFxQ?e=dBPqmd
