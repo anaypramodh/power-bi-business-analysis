@@ -8,6 +8,14 @@ This project focuses on **operational and behavioral analysis**, rather than tra
 
 ---
 
+## Dataset
+- Source: Public dataset from Kaggle (retail operational and transaction data)
+- Scope: Transactions, product interactions, and user engagement events
+- Volume: Approximately 215,000 records
+- Purpose: Supports analysis of usage patterns, product performance, and engagement insights
+
+---
+
 ## Tools & Skills
 - Power BI Desktop  
 - DAX (Measures & Calculated Columns)  
@@ -74,5 +82,7 @@ This project focuses on **operational and behavioral analysis**, rather than tra
   If you want to explore the dashboard interactively, download the Power BI file here:  
   Download PBIX: https://1drv.ms/u/c/0bc94a9f0c189551/IQDBglI0mzNnRIskM1vkcvB4Acd3-EsSi8xLTjToq3hXdZA?e=A4jbWD
   
+ --- 
+ 
   **Author:** Anay Pramodh  
   **Focus Areas:** Business Analytics | Product Insights | Data Visualization
