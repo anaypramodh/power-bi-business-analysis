@@ -15,9 +15,16 @@ This Power BI project analyzes operational and event-based data to uncover usage
 - Built interactive visuals to explore trends and performance
 
 ## Dashboard Preview
-![Overview](screenshots/overview.png)
+
+### Overview
+![Overview](screenshots/overview_key_metrics.png)
+
+### Key Metrics
 ![Key Metrics](screenshots/key_metrics.png)
+
+### Trends & Patterns
 ![Trends](screenshots/trends.png)
+
 
 ## Project Report
 For full analysis and methodology, see the project report:  
