@@ -3,27 +3,48 @@
 ## Overview
 This Power BI project analyzes operational and event-based data to uncover usage patterns, category trends, and actionable insights. The dashboard is designed to help decision-makers understand key metrics and optimize processes.
 
-## Tools & Techniques
-- **Power BI Desktop** – Dashboard and data modeling
-- **DAX** – Measures, calculated columns
-- **Data Modeling** – Relationships, hierarchies
-- **Business Analytics** – Trend analysis and insights
-
-## Key Insights
-- Identified operational patterns across categories  
-- Highlighted top metrics for actionable decision-making  
-- Built interactive visuals to explore trends and performance
+## Tools & Skills
+- Power BI Desktop
+- DAX (Measures & Calculated Columns)
+- Data Modeling & Relationships
+- Data Cleaning & Transformation
+- Business & Operational Analysis
+- Data Visualization
 
 ## Dashboard Preview
 
 ### Overview
-![Overview](screenshots/overview_key_metrics.png)
+![Overview Dashboard](screenshots/overview.png)
+
+**What this shows:**
+- High-level operational KPIs
+- Overall usage and performance trends
+- Snapshot view for quick executive insight
+
+---
 
 ### Key Metrics
-![Key Metrics](screenshots/key_metrics.png)
+![Key Metrics Dashboard](screenshots/key_metrics.png)
+
+**What this shows:**
+- Core performance metrics by category
+- Comparative analysis across segments
+- Identification of high-impact drivers
+
+---
 
 ### Trends & Patterns
-![Trends](screenshots/trends.png)
+![Trends Dashboard](screenshots/trends.png)
+
+**What this shows:**
+- Time-based trends and behavioral patterns
+- Growth, decline, and seasonality insights
+- Areas for optimization and deeper analysis
+
+## Key Takeaways
+- Built an end-to-end Power BI dashboard from raw data
+- Translated complex operational data into clear business insights
+- Designed visuals with stakeholder and decision-maker use cases in mind
 
 
 ## Project Report
